@@ -4,7 +4,7 @@
 version: 1.0
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: ""
+  version: "5d3daef7-5fe0-41e5-aa60-ea7fc87502c8"
 
   # DB2 service
   # Note: "services" variable here is used to initiate private connection gateway between EASe Java and DB2
